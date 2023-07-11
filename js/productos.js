@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const { createApp } = Vue;
 
 // Crea una instancia de la aplicación Vue
@@ -174,4 +173,3 @@ createApp({
     this.fetchData(this.url);
   },
 }).mount("#app");
->>>>>>> 6167ba268c1b753351b15c9fdf590c58faa0f5f1
