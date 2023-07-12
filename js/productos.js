@@ -7,7 +7,7 @@ createApp({
      */
     return {
       productos: [], // Almacena los productos obtenidos del backend
-      // url:'http://localhost:5000/productos', // URL local
+      // url:'http://localhost:5000/productos', // URL local local
       url: "https://gusal59.pythonanywhere.com/productos", // URL del backend donde se encuentran los productos
       error: false,
       cargando: true,
